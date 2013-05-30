@@ -1,4 +1,4 @@
-File_And_Music_Sorter 1.3
+File And Music Sorter 1.3
 ===========
 
 This program allows the user to sort through subdirectories without having to deal
